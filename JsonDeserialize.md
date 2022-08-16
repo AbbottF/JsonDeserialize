@@ -5,6 +5,6 @@ When you run the program, set a breakpoint in KboAjaxGenie.RunAjaxGenie at line 
 Console.WriteLine.
 
 If you compare the contents of the input json to the deserialized _ajaxBookGenieParams,
-you'll see that the source json BookGenieParams.SelectedCategories = [37,36]. while _ajaxBookGenieParams.BookGenieParams.SelectedCategories is empty.
+you'll see that the source json BookGenieParams.SelectedCategories = [37,36]. while _ajaxBookGenieParams.BookGenieParams.SelectedCategories has no children.
 
 
