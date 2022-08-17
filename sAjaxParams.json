@@ -1,0 +1,33 @@
+{ 
+    "AjaxBookGenieParams":{
+        "AgeCandidates":[],
+        "AgeItemToDelete":{ 
+            "ISBN":"",
+            "ProductId":0,
+            "ImageUrl":"",
+            "Title":"",
+            "Price":0,
+            "Quantity":0,
+            "AgeId":0
+        },
+        "AllocatedBooks":[],
+        "BookGenieParams":{
+            "AllocatedQuantity":0,
+            "AllocatedSubTotal":0,
+            "AllocatedTitles":0,
+            "AllocationBudget":200,
+            "BooksPerTitle":5,
+            "CustomerGuid":"",
+            "CustomerId":0,
+            "DefaultBooksPerTitle":5,
+            "MinimumBudget":200,
+            "MoveToCartSubTotal":0,
+            "MoveToCartCount":0,
+            "ReDisplayBreak":10,
+            "SelectedCategories":[37,36],
+            "UserBooksPerTitle":0
+        },
+        "Data":"",
+        "Request":"StartAllocationToCart"
+    }
+}
