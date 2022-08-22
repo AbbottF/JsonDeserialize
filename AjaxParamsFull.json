@@ -1,0 +1,266 @@
+{
+	"AjaxBookGenieParams": {
+		"AgeCandidates": [
+			{
+				"AllocationCandidates": [
+					{
+						"ProductID": 57563,
+						"ISBN": "9780310757917",
+						"Title": "NIrV Once Upon a Time Holy Bible (Pink Leathersoft)",
+						"Price": 15.3,
+						"Inventory": 219,
+						"DataLastTouched": "2022-08-18T06:36:43.667",
+						"AgeId": 37
+					},
+					{
+						"ProductID": 49379,
+						"ISBN": "9781442468207",
+						"Title": "Everyone's a Critic (Dear Know-It-All, Bk. 5)",
+						"Price": 2.14,
+						"Inventory": 60,
+						"DataLastTouched": "2022-08-18T06:36:43.667",
+						"AgeId": 37
+					},
+					{
+						"ProductID": 47914,
+						"ISBN": "9781442495418",
+						"Title": "Betsy Ross's Star (Blast to the Past, Bk. 8)",
+						"Price": 3.05,
+						"Inventory": 57,
+						"DataLastTouched": "2022-08-18T06:36:43.667",
+						"AgeId": 37
+					},
+					{
+						"ProductID": 47865,
+						"ISBN": "9781416955009",
+						"Title": "My Father's Daughter",
+						"Price": 3.05,
+						"Inventory": 78,
+						"DataLastTouched": "2022-08-18T06:36:43.667",
+						"AgeId": 37
+					},
+					{
+						"ProductID": 47045,
+						"ISBN": "9781442489387",
+						"Title": "Heidi Heckelbeck and the Tie-Dyed Bunny",
+						"Price": 6.42,
+						"Inventory": 141,
+						"DataLastTouched": "2022-08-18T06:36:43.667",
+						"AgeId": 37
+					},
+					{
+						"ProductID": 46773,
+						"ISBN": "9780689839894",
+						"Title": "Stowaway",
+						"Price": 3.05,
+						"Inventory": 55,
+						"DataLastTouched": "2022-08-18T06:36:43.667",
+						"AgeId": 37
+					}
+				],
+				"AgeId": 37
+			}
+		],
+		"BookToDelete": {
+			"ISBN": "",
+			"ProductId": 0,
+			"ImageUrl": "",
+			"Title": "",
+			"Price": 0.0,
+			"Quantity": 0,
+			"AgeId": 0
+		},
+		"AllocatedBooks": [
+			{
+				"AgeBooks": [
+					{
+						"ISBN": "9781438010540",
+						"ProductId": 71015,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "How to Draw Fun Flying Vehicles",
+						"Price": 2.5,
+						"Quantity": 5,
+						"AgeId": 34
+					},
+					{
+						"ISBN": "9780310762188",
+						"ProductId": 71121,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "The Berenstain Bears The Very First Easter",
+						"Price": 5.0,
+						"Quantity": 5,
+						"AgeId": 34
+					},
+					{
+						"ISBN": "9780064406697",
+						"ProductId": 68807,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "The Beduins' Gazelle",
+						"Price": 7.5,
+						"Quantity": 5,
+						"AgeId": 35
+					}
+				],
+				"AgeId": 34,
+				"Name": "Ages 3 to 5",
+				"Titles": 3,
+				"Quantity": 15,
+				"SubTotal": 75.0
+			},
+			{
+				"AgeBooks": [
+					{
+						"ISBN": "9781438010540",
+						"ProductId": 71015,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "How to Draw Fun Flying Vehicles",
+						"Price": 2.5,
+						"Quantity": 5,
+						"AgeId": 35
+					},
+					{
+						"ISBN": "9780310762188",
+						"ProductId": 71121,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "The Berenstain Bears The Very First Easter",
+						"Price": 5.25,
+						"Quantity": 5,
+						"AgeId": 35
+					},
+					{
+						"ISBN": "9780064406697",
+						"ProductId": 68807,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "The Beduins' Gazelle",
+						"Price": 7.5,
+						"Quantity": 5,
+						"AgeId": 35
+					}
+				],
+				"AgeId": 35,
+				"Name": "Ages 6 to 8",
+				"Titles": 3,
+				"Quantity": 18,
+				"SubTotal": 75.0
+			},
+			{
+				"AgeBooks": [
+					{
+						"ISBN": "9781438010540",
+						"ProductId": 71015,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "How to Draw Fun Flying Vehicles",
+						"Price": 2.5,
+						"Quantity": 5,
+						"AgeId": 37
+					},
+					{
+						"ISBN": "9780310762188",
+						"ProductId": 71121,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "The Berenstain Bears The Very First Easter",
+						"Price": 5.75,
+						"Quantity": 5,
+						"AgeId": 37
+					},
+					{
+						"ISBN": "9780064406697",
+						"ProductId": 68807,
+						"ImageUrl": "ImageNotAvailable.jpg",
+						"Title": "The Beduins' Gazelle",
+						"Price": 7.5,
+						"Quantity": 5,
+						"AgeId": 37
+					}
+				],
+				"AgeId": 37,
+				"Name": "Ages 9 to 11",
+				"Titles": 3,
+				"Quantity": 18,
+				"SubTotal": 75.0
+			}
+		],
+		"BookGenieParams": {
+			"AllocatedQuantity": 0,
+			"AllocatedSubTotal": 0.0,
+			"AllocatedTitles": 0,
+			"AllocationBudget": 200,
+			"BooksPerTitle": 5,
+			"CustomerGuid": "",
+			"CustomerId": 0,
+			"DefaultBooksPerTitle": 5,
+			"MinimumBudget": 200,
+			"MoveToCartSubTotal": 0.0,
+			"MoveToCartCount": 0,
+			"ReDisplayBreak": 10,
+			"SelectedCategories": [
+				37,
+				36
+			],
+			"UserBooksPerTitle": 0
+		},
+		"Data": "",
+		"ProductFilterParams": {
+			"RootNodes": [
+				{
+					"Id": 50,
+					"Name": "Ages",
+					"GroupType": "ages",
+					"NodeCategories": [
+						{
+							"Id": 38,
+							"Name": "Ages 0 to 2",
+							"Count": 54,
+							"Selected": "off",
+							"Description": ""
+						},
+						{
+							"Id": 34,
+							"Name": "Ages 3 to 5",
+							"Count": 536,
+							"Selected": "off",
+							"Description": ""
+						},
+						{
+							"Id": 35,
+							"Name": "Ages 6 to 8",
+							"Count": 471,
+							"Selected": "off",
+							"Description": ""
+						},
+						{
+							"Id": 37,
+							"Name": "Ages 9 to 12",
+							"Count": 1126,
+							"Selected": "off",
+							"Description": ""
+						},
+						{
+							"Id": 36,
+							"Name": "Young Adult",
+							"Count": 803,
+							"Selected": "off",
+							"Description": ""
+						}
+					],
+					"Description": "Books By Age",
+					"ToolTip": "",
+					"Selected": "off",
+					"__expanded__": false
+				}
+			],
+			"FilterGuid": "",
+			"AgeRange": {
+				"Min": 1,
+				"Max": 18,
+				"From": 3,
+				"FromInit": 3,
+				"To": 12,
+				"ToInit": 12
+			},
+			"SelectedAges": [1,2],
+			"ResetFilter": "false"
+		},
+		"Request": "StartAllocationToCart"
+	}
+}

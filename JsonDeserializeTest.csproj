@@ -47,10 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AgeCandidates.cs" />
-    <Compile Include="AjaxBookGenieParams.cs" />
+    <Compile Include="AjaxBookGenieParams2.cs" />
     <Compile Include="AllocatedBooks.cs" />
     <Compile Include="AllocationCandidate.cs" />
     <Compile Include="Book.cs" />
+    <Compile Include="JsonToClass-Orig.cs" />
+    <Compile Include="JsonToClass.cs" />
     <Compile Include="KboAjaxGenie.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
